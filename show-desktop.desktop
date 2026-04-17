@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 Name=Show Desktop
-Icon=show-desktop-off
+Icon=view-mirror
 Exec=bash -c "$HOME/.local/bin/toggle-desktop.sh"
 Terminal=false
 Categories=Utility;
