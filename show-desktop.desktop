@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 Name=Show Desktop
-Icon=radio-symbolic
+Icon=face-smile-symbolic
 Exec=bash -c "$HOME/.local/bin/toggle-desktop.sh"
 Terminal=false
 Categories=Utility;
