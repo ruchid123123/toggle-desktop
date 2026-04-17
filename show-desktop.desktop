@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 Name=Show Desktop
-Icon=face-smile-symbolic
+Icon=/home/j/.local/share/icons/finder.png
 Exec=bash -c "$HOME/.local/bin/toggle-desktop.sh"
 Terminal=false
 Categories=Utility;
