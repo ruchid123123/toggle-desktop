@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 Name=Show Desktop
-Icon=user-desktop
+Icon=view-grid-symbolic
 Exec=bash -c "$HOME/.local/bin/toggle-desktop.sh"
 Terminal=false
 Categories=Utility;
